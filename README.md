@@ -13,8 +13,6 @@ A Python-based tool for analyzing network packets.
 - Python
 - Scapy
 
-## Author
-Saumya
 ## Installation
 
 ```bash
@@ -32,5 +30,8 @@ python packet_analyzer.py
 Starting packet capture...
 
 Ether / IP / TCP
+
+## Author
+Saumya
 Ether / IP / UDP
 ```
